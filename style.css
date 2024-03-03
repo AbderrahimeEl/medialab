@@ -4,3 +4,7 @@ body{
 .carousel-caption{
     width: 30%;
 }
+svg {
+    height: 100px;  
+    color :rgb(14, 73, 73);
+}
