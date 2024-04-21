@@ -1,7 +1,7 @@
 # medialab - Bootstrap
 
 ## Description
-This README a descriptions of hit states for different screen sizes: big, medium, and small.
+This README is a descriptions of hit states for different screen sizes: big, medium, and small.
 
 ### Images
 Below are PNG images illustrating hit states for different screen sizes:
